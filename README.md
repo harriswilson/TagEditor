@@ -1,4 +1,9 @@
 TagEditor
 =========
 
-Edit and Show of MP3 files
+Edit and Show MP3 ID3 Tags
+
+
+Features
+========
+
